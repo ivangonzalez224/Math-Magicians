@@ -1,8 +1,57 @@
-# Getting Started with Create React App
+<div align="center"> 
+  <h3><b>Math Magicians</b></h3>
+  <h5>Ivan Gonzalez</h5> 
+</div>
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project) 
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Available Scripts](#availablescripts)
+  - [Learn More](#learnmore)
+  - [Code Splitting](#codesplitting)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🛩️ Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+# 📖 Math Magicians <a name="about-project"></a>
+
+**Math Magicians** is a web app using React to build the project.
+
+## 🛠 Built With <a name="built-with"></a>
+
+1. React
+
+### Tech Stack <a name="tech-stack"></a>
+
+In this project we use React to build calculator web app.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://es.react.dev/">React</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- Add a professional README.md file.
+- Use React in order to build the whole project.
+- Set up a linters for the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# Getting Started with Create React App <a name="getting-started"></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts <a name="availablescripts"></a>
 
 In the project directory, you can run:
 
@@ -39,13 +88,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Learn More <a name="learnmore"></a>
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Code Splitting <a name="codesplitting"></a>
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
@@ -61,10 +110,49 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Deployment <a name="deployment"></a>
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Iván Gonzalez**
+
+- GitHub: [@ivangonzalez224](https://github.com/ivangonzalez224)
+- Twitter: [@ivang2204](https://twitter.com/ivang2204)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/iván-gonzalez-robles-957491275)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🛩️ Future Features <a name="future-features"></a>
+
+- Add a feature that allows to add better animations to the calculator buttons.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Micoverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
