@@ -18,22 +18,18 @@
 
 .container_display {
   width: 40%;
+  background-color: #858694;
+  color: #fff;
+  padding: 2% 1%;
+  font-size: 19px;
+  box-sizing: border-box;
+  border: none;
+  text-align: right;
 }
 
 .container_buttons {
   width: 40%;
   background-color: #bebebe;
-}
-
-.input_display {
-  width: 100%;
-  background-color: #858694;
-  color: #fff;
-  padding: 3% 1%;
-  font-size: 19px;
-  box-sizing: border-box;
-  border: none;
-  text-align: right;
 }
 
 .row {
