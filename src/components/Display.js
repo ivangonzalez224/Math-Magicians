@@ -1,10 +1,15 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import '../App.css';
 
-const Display = () => (
+const Display = ({ result }) => (
   <div className="container_display">
-    <input className="input_display" />
+    {result}
   </div>
 );
+
+Display.propTypes = {
+  result: PropTypes.string.isRequired,
+};
 
 export default Display;
