@@ -10,10 +10,10 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Available Scripts](#availablescripts)
-  - [Learn More](#learnmore)
-  - [Code Splitting](#codesplitting)
-  - [Deployment](#deployment)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🛩️ Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -43,80 +43,50 @@ In this project we use React to build calculator web app.
 
 - Add a professional README.md file.
 - Use React in order to build the whole project.
-- Set up a linters for the project.
+- Set up linters for the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Getting Started with Create React App <a name="getting-started"></a>
+# Getting Started <a name="getting-started"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project it is used React to build a calculator web app.
 
-## Available Scripts <a name="availablescripts"></a>
+### Setup
 
-In the project directory, you can run:
+To get a local copy, follow these steps.
 
-### `npm start`
+Clone this repository to your desired folder:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ```sh
+  cd my-folder
+  git clone git@github.com:ivangonzalez224/Math-Magicians.git
+  code . (To open in Vscode)
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+In order to run this project you need:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Git.
+2. Visual Studio Code or another code editor.
+3. Browser.  
+  
+  
+### Install
 
-### `npm run build`
+This project does not require installation. Just clone the repository to your local machine.
+Even though, for general purposes, Install this project with:
+```sh
+  cd my-folder
+  npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the project, do the following:
+- Run `npm start` to open the project in your browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More <a name="learnmore"></a>
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting <a name="codesplitting"></a>
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment <a name="deployment"></a>
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -139,7 +109,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/ivangonzalez224/Math-Magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
