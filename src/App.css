@@ -8,7 +8,7 @@
 }
 
 .container_calculator {
-  width: 100%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,7 +17,7 @@
 }
 
 .container_display {
-  width: 40%;
+  width: 80%;
   background-color: #858694;
   color: #fff;
   padding: 2% 1%;
@@ -28,7 +28,7 @@
 }
 
 .container_buttons {
-  width: 40%;
+  width: 80%;
   background-color: #bebebe;
 }
 
@@ -62,4 +62,13 @@
 
 .button-orange {
   background-color: #f6923e;
+}
+
+.quote_container {
+  width: 40%;
+}
+
+.quote_author {
+  font-weight: bold;
+  font-style: italic;
 }
