@@ -49,7 +49,7 @@ In this project we use React to build calculator web app.
 
 # Getting Started <a name="getting-started"></a>
 
-In this project it is used React to build the project.
+In this project it is used React to build a calculator web app.
 
 ### Setup
 
