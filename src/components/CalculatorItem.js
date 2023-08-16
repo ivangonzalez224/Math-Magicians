@@ -3,7 +3,7 @@ import Calculator from './Calculator';
 
 const CalculatorItem = () => (
   <div className="main-calculator">
-    <h3>Let&apos;s do some math !</h3>
+    <h2>Let&apos;s do some math !</h2>
     <Calculator />
   </div>
 );

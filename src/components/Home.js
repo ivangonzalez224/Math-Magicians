@@ -1,5 +1,6 @@
 const Home = () => (
   <div className="main-home">
+    <h2>Welcome to our page !</h2>
     <p>This calculator app provides simple mathematical functions in a beautifully designed app.</p>
     <p>
       <span>• Perform basic calculations such as addition, subtraction,</span>
