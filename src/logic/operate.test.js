@@ -1,7 +1,7 @@
 import operate from './operate';
 
-describe('Do operations +, -, *, ÷, and %', () => {
-  test('sum 90 + 100 should be equal 190', () => {
+describe('Do operations +, -, x, ÷, and %', () => {
+  test('sum 90 + 100 should be equal to 190', () => {
     expect(operate(90, 100, '+')).toBe('190');
   });
   test('substract 9 - 8 should be equal to 1', () => {
