@@ -44,3 +44,14 @@ describe('Test if the objet change when calculating an operation +, -, x, ÷, or
     expect(output).toEqual({ total: '-18', next: null, operation: '-' });
   });
 });
+
+describe('Test if the objet updates and the operation is calculated when entering =', () => {
+  it('should change the object with total = 50 as the result of operation, and the other values to be null', () => {
+    const output = calculate({ total: '40', next: '10', operation: '+' }, '=');
+    expect(output).toEqual({ total: '50', next: null, operation: null });
+  });
+  it('should change the object with total = 0 as the result of operation, and the other values to be null', () => {
+    const output = calculate({ total: '12', next: '12', operation: '-' }, '=');
+    expect(output).toEqual({ total: '0', next: null, operation: null });
+  });
+});
