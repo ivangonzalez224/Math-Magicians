@@ -18,13 +18,11 @@ describe('Do operations +, -, x, ÷, and %', () => {
   });
   test('the return should be "Can\'t divide by 0."  for the division of 20 by 0', () => {
     expect(operate('20', '0', '÷')).toEqual('Can\'t divide by 0.');
-   });
-   
-   test('the return should be "Can\'t find modulo as can\'t divide by 0." for the modulo of 5 and 0', () => {
-      expect(operate('5', '0', '%')).toEqual('Can\'t find modulo as can\'t divide by 0.');
-   });
-   
-   test('the output should throw error for unknown operation', () => {
+  });
+  test('the return should be "Can\'t find modulo as can\'t divide by 0." for the modulo of 5 and 0', () => {
+    expect(operate('5', '0', '%')).toEqual('Can\'t find modulo as can\'t divide by 0.');
+  });
+  test('the output should throw error for unknown operation', () => {
     expect(() => operate('15', '3', '@')).toThrow('Unknown operation \'@\'');
-   });
+  });
 });
