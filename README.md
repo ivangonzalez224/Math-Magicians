@@ -9,6 +9,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -44,6 +45,14 @@ In this project we use React to build calculator web app.
 - Add a professional README.md file.
 - Use React in order to build the whole project.
 - Set up linters for the project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+ The link to the project deployed:
+
+- [Live Demo Link](https://awesome-math-magicians.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
